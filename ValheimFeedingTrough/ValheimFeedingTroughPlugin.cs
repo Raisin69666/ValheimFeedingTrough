@@ -12,7 +12,7 @@ namespace ValheimFeedingTrough
         // Unique Mod ID (Reverse-Domain)
         private const string ModGUID = "com.raisin69666.valheimfeedingtrough";
         private const string ModName = "Valheim Feeding Trough";
-        private const string ModVersion = "1.0.0";
+        private const string ModVersion = "0.0.1";
 
         // Called only once by BepInEx when game starts
         private void Awake()
