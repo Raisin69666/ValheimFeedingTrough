@@ -1,0 +1,9 @@
+# Compilation
+ValheimFeedingTrough/bin/
+ValheimFeedingTrough/obj/
+
+# Local dependencies
+ValheimFeedingTrough/libs/
+
+# VScode config
+.vscode/
