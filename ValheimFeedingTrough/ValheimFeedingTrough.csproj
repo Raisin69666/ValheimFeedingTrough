@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>ValheimFeedingTrough</AssemblyName>
     <Description>Simply a simple mod that simply adds a simple feeding trough to Valheim!</Description>
     <Version>0.0.1</Version>
@@ -18,6 +18,12 @@
     <Reference Include="0Harmony">
       <HintPath>libs\0Harmony.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>libs\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>libs\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
   </ItemGroup>
-  
+
 </Project>
