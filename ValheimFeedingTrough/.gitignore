@@ -1,0 +1,9 @@
+# Compilation
+bin/
+obj/
+
+# Local dependencies
+libs/
+
+# VScode config
+.vscode/
